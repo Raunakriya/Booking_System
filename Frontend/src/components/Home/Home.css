@@ -1,0 +1,21 @@
+.col {
+    margin-bottom: 20px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.star-rating {
+    display: flex;
+    gap: 2px;
+}
+
+.star-filled {
+    color: gold;
+}
+
+.star-empty {
+    color: lightgray;
+}
